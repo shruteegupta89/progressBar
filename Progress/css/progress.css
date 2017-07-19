@@ -1,0 +1,33 @@
+[id^=progressbar]{
+  width: 100%;
+  background-color: #ddd;
+} 
+[id^=myBar]{
+  height: 30px;
+  background-color: #2795EE;
+  width:0%;
+  max-width:100%;
+}
+
+.model{
+	margin-top: 30px;
+}
+
+.selectOpt{
+	width: 10% !important;
+	float: left;
+    margin-right: 16px;
+	margin-top: 3px;
+	height:30px !important;
+}
+
+button{
+	margin-right: 6px !important;
+    margin-top: 4px !important;
+}
+
+.progressBar{
+	margin-bottom : 20px;
+	padding-right: 0 !important; 
+    padding-left: 0 !important; 
+}
